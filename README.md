@@ -22,7 +22,7 @@ I've developed an interactive and user-friendly stopwatch web application using 
 To view this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/abhiguptanitb/PRODIGY_WD_02.git
+git clone https://github.com/abhiguptanitb/Stopwatch.git
 2. Navigate to the project directory:
 cd PRODIGY_WD_02
 3. Open the index.html file in your web browser to view the website.
